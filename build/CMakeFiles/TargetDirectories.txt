@@ -1,0 +1,4 @@
+/home/jessdotjs/Projects/AmericanCoin/Wallet/build/CMakeFiles/americancoin.dir
+/home/jessdotjs/Projects/AmericanCoin/Wallet/build/CMakeFiles/americancoin_automoc.dir
+/home/jessdotjs/Projects/AmericanCoin/Wallet/build/CMakeFiles/cryptonote.dir
+/home/jessdotjs/Projects/AmericanCoin/Wallet/build/CMakeFiles/cryptonote_automoc.dir
