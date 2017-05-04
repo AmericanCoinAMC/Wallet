@@ -145,7 +145,7 @@ SET(CMAKE_CXX_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 SET(CMAKE_TARGET_DEFINITIONS
-  "GIT_REVISION=\"33ad3f0\""
+  "GIT_REVISION=\"d360bd9\""
   "_GNU_SOURCE"
   )
 

@@ -5,9 +5,9 @@
 # compile CXX with /usr/bin/c++
 C_FLAGS =  -maes -std=c11 -I/home/jessdotjs/Projects/AmericanCoin/Wallet/build -I/home/jessdotjs/Projects/AmericanCoin/Wallet/src -I/home/jessdotjs/Projects/AmericanCoin/Wallet/cryptonote/external -I/home/jessdotjs/Projects/AmericanCoin/Wallet/cryptonote/include -I/home/jessdotjs/Projects/AmericanCoin/Wallet/cryptonote/src -I/home/jessdotjs/Projects/AmericanCoin/Wallet/cryptonote/src/Platform/Linux   
 
-C_DEFINES = -DGIT_REVISION=\"33ad3f0\" -D_GNU_SOURCE
+C_DEFINES = -DGIT_REVISION=\"d360bd9\" -D_GNU_SOURCE
 
 CXX_FLAGS =  -maes -std=c++11 -I/home/jessdotjs/Projects/AmericanCoin/Wallet/build -I/home/jessdotjs/Projects/AmericanCoin/Wallet/src -I/home/jessdotjs/Projects/AmericanCoin/Wallet/cryptonote/external -I/home/jessdotjs/Projects/AmericanCoin/Wallet/cryptonote/include -I/home/jessdotjs/Projects/AmericanCoin/Wallet/cryptonote/src -I/home/jessdotjs/Projects/AmericanCoin/Wallet/cryptonote/src/Platform/Linux   
 
-CXX_DEFINES = -DGIT_REVISION=\"33ad3f0\" -D_GNU_SOURCE
+CXX_DEFINES = -DGIT_REVISION=\"d360bd9\" -D_GNU_SOURCE
 

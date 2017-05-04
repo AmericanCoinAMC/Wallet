@@ -207,7 +207,7 @@ public:
         label_6->setText(QApplication::translate("OverviewFrame", "Total:", 0));
         label->setText(QApplication::translate("OverviewFrame", "Wallet", 0));
         label_4->setText(QApplication::translate("OverviewFrame", "Unconfirmed:", 0));
-        label_2->setText(QApplication::translate("OverviewFrame", "Saldo:", 0));
+        label_2->setText(QApplication::translate("OverviewFrame", "Balance:", 0));
         label_8->setText(QApplication::translate("OverviewFrame", "Recent transactions", 0));
     } // retranslateUi
 
